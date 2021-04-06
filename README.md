@@ -1,14 +1,14 @@
 # SoftwarearchitekturKurs
 Ich bin Franck Student an der THB, eingeschrieben im Kurs Softwarearchitektur
 
-##Überschriften
+## Überschriften
 Noch eine anderes Thema
 
-##Instal
+## Instal
 Wie mann ein Projekt baut und laufen lässt
 
-##Desploy
-Wei man das Porjekt aufbaut und online kriegt
+## Desploy
+Wie man das Porjekt aufbaut und online kriegt
 
 
 ```npm strat run```
